@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "STP16CP05 LED Matrix 8x16 Breakout")
-		(date "2024-11-17")
-		(rev "v02")
+		(date "2024-11-18")
+		(rev "v03")
 		(comment 3 "See: ST's Application note AN3981 for detailed usage of the LED IC driver")
 		(comment 4 "LED matrix board controlled by two STP16CP LED IC drivers")
 	)
@@ -2203,6 +2203,126 @@
 				)
 			)
 		)
+		(symbol "power:+3V3"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3V3"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3V3_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3V3_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -2643,12 +2763,6 @@
 		(uuid "12a33fb5-5889-43e2-8fea-084903e6f5ca")
 	)
 	(junction
-		(at 142.24 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14705303-9ff7-46fa-8e76-9f4748eded0d")
-	)
-	(junction
 		(at 207.01 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2791,12 +2905,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ccc9fbf-7209-42a3-8398-d253db5d30cc")
-	)
-	(junction
-		(at 186.69 209.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2e8e50e8-a8ac-430d-954f-2c707c8cd1b2")
 	)
 	(junction
 		(at 76.2 138.43)
@@ -2971,6 +3079,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44ca4338-4472-48f7-a9bc-29eece86008c")
+	)
+	(junction
+		(at 186.69 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44da6732-61b9-4d7b-a15f-3f9eadd49965")
 	)
 	(junction
 		(at 114.3 154.94)
@@ -3621,6 +3735,12 @@
 		(uuid "b80109c7-6306-4275-ad00-69d79a7933fa")
 	)
 	(junction
+		(at 25.4 194.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8610cbe-c367-4d74-ad33-a487690ab06a")
+	)
+	(junction
 		(at 336.55 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3643,12 +3763,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b96056bc-d92c-45cd-9a09-654562087c37")
-	)
-	(junction
-		(at 25.4 194.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9669167-8285-4fe3-a1cb-01bb33b8adcb")
 	)
 	(junction
 		(at 336.55 83.82)
@@ -3775,6 +3889,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d30154f5-d5da-4cf4-bed0-543e0d0a0e54")
+	)
+	(junction
+		(at 142.24 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d31f05ff-6f1a-4802-9c64-2e2a4b02fe21")
 	)
 	(junction
 		(at 232.41 100.33)
@@ -11187,72 +11307,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 142.24 208.28 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "21417bfe-bd31-4834-8d65-a0dfa7ece7d3")
-		(property "Reference" "#PWR021"
-			(at 142.24 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 142.24 203.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 142.24 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 142.24 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 142.24 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3bbb1e2a-c6f0-40c2-945e-c3493199fd96")
-		)
-		(instances
-			(project "led_matrix_16x8_breakout"
-				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
-					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED_45deg_Filled")
 		(at 204.47 86.36 90)
 		(unit 1)
@@ -14802,6 +14856,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 186.69 209.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62de5f7b-39e0-4f67-afb3-b3f1a18b3773")
+		(property "Reference" "#PWR022"
+			(at 186.69 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 186.69 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 186.69 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c4f286f-7a89-42bc-a07e-b6ba96e950d1")
+		)
+		(instances
+			(project ""
+				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED_45deg_Filled")
 		(at 179.07 53.34 90)
 		(unit 1)
@@ -15980,6 +16100,138 @@
 			(project "led_matrix_16x8_breakout"
 				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
 					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 25.4 240.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d341bcf-70ad-4c12-a46f-0b9e5c849c2e")
+		(property "Reference" "#PWR018"
+			(at 25.4 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 25.4 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 25.4 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cf5683d5-0ca4-44dc-b841-487c07c6f9f9")
+		)
+		(instances
+			(project "stp16cp05_led_matrix_8x16_breakout_m0805"
+				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
+					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 142.24 208.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7ddf6bb3-dc20-4249-b2e7-674496c824dd")
+		(property "Reference" "#PWR021"
+			(at 142.24 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 142.24 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 142.24 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bd62896-4511-415e-a3a3-0867be2541a5")
+		)
+		(instances
+			(project "stp16cp05_led_matrix_8x16_breakout_m0805"
+				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -18291,73 +18543,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 186.69 209.55 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a65fe650-960b-4043-a9c3-cb3848ae5f20")
-		(property "Reference" "#PWR022"
-			(at 186.69 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 186.69 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 186.69 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6333d749-32ee-41ad-aeb0-e16f4373fafe")
-		)
-		(instances
-			(project "led_matrix_16x8_breakout"
-				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED_45deg_Filled")
 		(at 204.47 135.89 90)
 		(unit 1)
@@ -18423,72 +18608,6 @@
 			(project "led_matrix_16x8_breakout"
 				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
 					(reference "D705")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 25.4 194.31 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a73ef1bb-2561-4edd-b69d-f4424b5f06d7")
-		(property "Reference" "#PWR018"
-			(at 25.4 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 21.59 192.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 25.4 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0ca8770c-8f6e-42f2-8f8d-461c01198fef")
-		)
-		(instances
-			(project "led_matrix_16x8_breakout"
-				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -21185,6 +21304,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 25.4 194.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc485ce3-e725-4950-b6d1-3707a4adec71")
+		(property "Reference" "#PWR025"
+			(at 25.4 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 25.4 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 25.4 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f95beff9-19fc-4ccc-a638-7ca7c8614284")
+		)
+		(instances
+			(project "stp16cp05_led_matrix_8x16_breakout_m0805"
+				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED_45deg_Filled")
 		(at 191.77 119.38 90)
 		(unit 1)
@@ -23209,72 +23394,6 @@
 			(project "led_matrix_16x8_breakout"
 				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 25.4 240.03 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f272841f-5f31-4c2f-978b-a1b8779ea0a3")
-		(property "Reference" "#PWR025"
-			(at 25.4 243.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 21.59 238.506 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 25.4 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 25.4 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1df9f436-698e-46d5-aaeb-10e70eee9ddc")
-		)
-		(instances
-			(project "led_matrix_16x8_breakout"
-				(path "/d3573bd0-bb1b-4ae9-8f90-c9b5d4113705"
-					(reference "#PWR025")
 					(unit 1)
 				)
 			)
