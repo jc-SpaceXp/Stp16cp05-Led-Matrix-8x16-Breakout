@@ -2564,6 +2564,7 @@
 			(uuid "c86b891b-7e3c-4b8f-a5e6-a76ce2f05cf2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical_SMD_Pin1Left.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11469,6 +11470,17 @@
 			(uuid "756444cb-c086-4d1d-81e1-1c59ca6cff0c")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27623,6 +27635,17 @@
 			(uuid "3051a4db-b30b-411d-9f41-abcd3a720684")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
