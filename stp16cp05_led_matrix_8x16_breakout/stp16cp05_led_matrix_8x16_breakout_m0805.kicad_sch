@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "STP16CP05 LED Matrix 8x16 Breakout")
-		(date "2024-11-18")
-		(rev "v03")
+		(date "2024-11-25")
+		(rev "v04")
 		(comment 3 "See: ST's Application note AN3981 for detailed usage of the LED IC driver")
 		(comment 4 "LED matrix board controlled by two STP16CP LED IC drivers")
 	)
@@ -8620,6 +8620,16 @@
 		)
 		(uuid "55efa4d7-b6ac-450b-a6bd-226352d7977f")
 	)
+	(text "Cascade Direction\nLast (in chain) <-- First (in chain)"
+		(exclude_from_sim no)
+		(at 162.56 179.324 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+		)
+		(uuid "011d0a36-6739-4965-b187-f6a595f8ff48")
+	)
 	(text "Rext = (Vref/Iout) * 16\n\n1K = 16(1.25/Iout)\n\n1K/16 = 1.25/Iout\n\nIout (1K/16) = 1.25 ---> Iout = 16(1.25/1K)\n= 0.02A ---> 20mA"
 		(exclude_from_sim no)
 		(at 350.774 226.06 0)
@@ -8652,6 +8662,17 @@
 			(justify left)
 		)
 		(uuid "9af5bdc3-c422-4f3c-8da6-22662fa4f527")
+	)
+	(text "SPI writes\n\nAppears that serial data is expected to be MSB first\nsuch that MSB is mapped to OUT15 and LSB to OUT0\n\nMeans that\nFor U1:\nSPI 0x0100 sets ROW8 MOSFET\nSPI 0x8000 sets ROW1 MOSFET\n\nFor U2:\nSPI 0x0001 sets COL16\nSPI 0x8000 sets COL1\n\nSPI master can control how COLs are mapped\ne.g. can reverse bits such that COL1 --> COL16\n(same is true for the rows)"
+		(exclude_from_sim no)
+		(at 149.606 255.778 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9f10d43e-1ab4-4f53-8a19-10d0e353eba4")
 	)
 	(text "Brightness Control\nShort JP for max brightness\nAlternatively, adjust with potentiometer"
 		(exclude_from_sim no)
