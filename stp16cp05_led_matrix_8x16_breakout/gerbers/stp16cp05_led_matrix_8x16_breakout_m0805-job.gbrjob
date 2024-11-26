@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "8.0.6"
     },
-    "CreationDate": "2024-11-25T20:07:06+00:00"
+    "CreationDate": "2024-11-26T09:23:39+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "stp16cp05_led_matrix_8x16_breakout_m0805",
       "GUID": "73747031-3663-4703-9035-5f6c65645f6d",
-      "Revision": "v02"
+      "Revision": "v03"
     },
     "Size": {
       "X": 101.05,
