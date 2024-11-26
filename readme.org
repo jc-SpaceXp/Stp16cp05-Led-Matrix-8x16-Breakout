@@ -1,4 +1,4 @@
 * STP16CP05 LED Matrix 8x16 Breakout (0805 Metric)
 Note: All components have the correct name/part-number however the description and datasheet will be incorrect (if names were changed)
 ** Schematic
-[[file:stp16cp05_led_matrix_8x16_breakout/schematic_v03.pdf]]
+[[file:stp16cp05_led_matrix_8x16_breakout/schematic_v04.pdf]]
