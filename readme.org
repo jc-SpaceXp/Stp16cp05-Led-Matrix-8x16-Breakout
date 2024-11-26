@@ -2,3 +2,6 @@
 Note: All components have the correct name/part-number however the description and datasheet will be incorrect (if names were changed)
 ** Schematic
 [[file:stp16cp05_led_matrix_8x16_breakout/schematic_v04.pdf]]
+** 3D PCB Models
+[[file:stp16cp05_led_matrix_8x16_breakout/pcb_3d_front.png]]
+[[file:stp16cp05_led_matrix_8x16_breakout/pcb_3d_back.png]]
