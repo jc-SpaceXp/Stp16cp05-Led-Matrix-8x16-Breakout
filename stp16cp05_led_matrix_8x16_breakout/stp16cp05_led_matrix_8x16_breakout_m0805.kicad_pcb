@@ -41981,6 +41981,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "STP16CP05 8x16 LED Matrix\n(0805 Metric) Breakout v03"
+		(at 148.5 99.45 90)
+		(layer "F.SilkS")
+		(uuid "be205924-9e9c-4d2f-a3d5-642b2c3332de")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "VCC"
 		(at 203.4 114.8 0)
 		(layer "F.SilkS")
