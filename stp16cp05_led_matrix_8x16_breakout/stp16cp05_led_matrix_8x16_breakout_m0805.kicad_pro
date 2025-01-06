@@ -559,6 +559,12 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part No",
+          "name": "MFR",
+          "show": true
         }
       ],
       "filter_string": "",

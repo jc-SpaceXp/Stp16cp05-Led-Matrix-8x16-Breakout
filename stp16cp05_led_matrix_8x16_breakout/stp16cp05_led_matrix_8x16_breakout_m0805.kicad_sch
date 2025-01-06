@@ -9774,6 +9774,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "C0603C104J3RACTU"
+			(at 186.69 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4f52edf1-2a65-4abe-a547-c5a4c4c716a3")
 		)
@@ -9837,6 +9846,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 53.34 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 53.34 36.83 0)
 			(effects
 				(font
@@ -9916,6 +9934,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "18495666-f09c-4d1c-b2bd-acf9cb506e6f")
 		)
@@ -9979,6 +10006,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 91.44 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 91.44 36.83 0)
 			(effects
 				(font
@@ -10058,6 +10094,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 166.37 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac1bdf92-ebe0-4f0c-8d44-cefb65a08d2b")
 		)
@@ -10121,6 +10166,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 217.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 217.17 119.38 0)
 			(effects
 				(font
@@ -10200,6 +10254,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 204.47 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a06af35e-01e4-46de-af5d-db713ad763b2")
 		)
@@ -10263,6 +10326,15 @@
 			)
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
+			(at 347.98 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "DMP3125L-7"
 			(at 347.98 128.27 0)
 			(effects
 				(font
@@ -10475,6 +10547,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603DRE071KL"
+			(at 336.55 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6371242a-d0bf-4599-931a-fe80ac320b56")
 		)
@@ -10546,6 +10627,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 129.54 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "833b2c63-1506-4cc1-8481-bcee1c2690d7")
 		)
@@ -10609,6 +10699,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 40.64 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 40.64 53.34 0)
 			(effects
 				(font
@@ -10754,6 +10853,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 229.87 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "22791f2a-ad48-449a-826a-4fea40f58ee7")
 		)
@@ -10891,6 +10999,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 229.87 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9ba0fb71-5b32-4188-947e-e0af5ca7f184")
 		)
@@ -10951,6 +11068,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 331.47 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603DRE071KL"
 			(at 331.47 227.33 0)
 			(effects
 				(font
@@ -11022,6 +11148,15 @@
 			)
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
+			(at 347.98 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "DMP3125L-7"
 			(at 347.98 45.72 0)
 			(effects
 				(font
@@ -11104,6 +11239,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d729eae9-d3d0-4906-aff2-5b507e19fd64")
 		)
@@ -11175,6 +11319,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 217.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "36ac8996-d2dd-4108-9d11-2e70e98cfac3")
 		)
@@ -11238,6 +11391,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 242.57 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 242.57 102.87 0)
 			(effects
 				(font
@@ -11383,6 +11545,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 204.47 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "21773627-5aa2-45fa-85aa-dc39f5f56251")
 		)
@@ -11446,6 +11617,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 116.84 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 116.84 36.83 0)
 			(effects
 				(font
@@ -11525,6 +11705,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 242.57 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bf545760-8ab6-4b31-9428-508eedcee53f")
 		)
@@ -11596,6 +11785,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 129.54 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "98b5576e-9140-4604-a44f-0cf03b76c121")
 		)
@@ -11659,6 +11857,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 129.54 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 129.54 119.38 0)
 			(effects
 				(font
@@ -11803,6 +12010,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603DRE071KL"
+			(at 336.55 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26d8e83f-4c88-4740-8a86-b4a4c35ec3ce")
 		)
@@ -11866,6 +12082,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 78.74 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 78.74 152.4 0)
 			(effects
 				(font
@@ -11945,6 +12170,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "DMP3125L-7"
+			(at 347.98 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6a6c9f7d-8142-4fd3-b557-8f6c48081667")
 		)
@@ -12010,6 +12244,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 45.72 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "77311-101-10LF"
 			(at 45.72 181.61 0)
 			(effects
 				(font
@@ -12110,6 +12353,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603DRE071KL"
+			(at 312.42 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b98f582f-9adf-47d8-92aa-581cedf0464c")
 		)
@@ -12173,6 +12425,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 40.64 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 40.64 36.83 0)
 			(effects
 				(font
@@ -12252,6 +12513,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 40.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "08420534-4204-4623-858c-2e0666ab4978")
 		)
@@ -12315,6 +12585,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 53.34 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 53.34 102.87 0)
 			(effects
 				(font
@@ -12394,6 +12673,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 255.27 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad1bde90-0bc7-4b11-8bca-94e699602268")
 		)
@@ -12457,6 +12745,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 116.84 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 116.84 102.87 0)
 			(effects
 				(font
@@ -12536,6 +12833,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 78.74 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "948bc72f-de55-4125-acf5-e67993a3fee2")
 		)
@@ -12607,6 +12913,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9b8c2a8d-4101-476d-8071-c4edc861b171")
 		)
@@ -12667,6 +12982,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 367.03 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE075K1L"
 			(at 367.03 125.73 0)
 			(effects
 				(font
@@ -12746,6 +13070,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 40.64 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "77092112-9e52-4fe2-9d4a-4015dd9f65a2")
 		)
@@ -12809,6 +13142,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 104.14 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 104.14 135.89 0)
 			(effects
 				(font
@@ -12888,6 +13230,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 129.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2075c47b-9413-4e91-9e59-0f59498e7da7")
 		)
@@ -12951,6 +13302,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 129.54 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 129.54 53.34 0)
 			(effects
 				(font
@@ -13030,6 +13390,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 104.14 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "424eee88-c8a9-41ac-8afc-7e5924374f18")
 		)
@@ -13093,6 +13462,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 91.44 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 91.44 86.36 0)
 			(effects
 				(font
@@ -13169,6 +13547,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603FRE075K1L"
+			(at 367.03 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2e74b6db-16c6-481e-aca9-55fdc43e3adc")
 		)
@@ -13228,6 +13615,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 274.32 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
 			(at 274.32 185.42 0)
 			(effects
 				(font
@@ -13436,6 +13832,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 45.72 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "2870d489-7c4a-46cb-8b8f-e76c843f50b9")
 		)
@@ -13531,6 +13936,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 179.07 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0a3089f5-bc71-4327-8cd4-79554299e888")
 		)
@@ -13594,6 +14008,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 229.87 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 229.87 119.38 0)
 			(effects
 				(font
@@ -13673,6 +14096,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bd80608a-a5e5-42b0-bb5c-f293fc83706e")
 		)
@@ -13736,6 +14168,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 204.47 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 204.47 69.85 0)
 			(effects
 				(font
@@ -13811,6 +14252,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603FRE0710RL"
+			(at 327.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e9d5e60-6b95-43f2-8925-6ecf20f8d37a")
 		)
@@ -13871,6 +14321,15 @@
 			)
 		)
 		(property "Description" "16-bit constant current LED sink driver, HTSSOP-24"
+			(at 111.76 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "STP16CP05XTTR "
 			(at 111.76 208.28 0)
 			(effects
 				(font
@@ -14019,6 +14478,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 191.77 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef44c013-316f-4f0f-b684-5c382729ec19")
 		)
@@ -14082,6 +14550,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 166.37 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 166.37 119.38 0)
 			(effects
 				(font
@@ -14161,6 +14638,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3671a029-8a1e-4b18-a2f3-345d2729aa43")
 		)
@@ -14232,6 +14718,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 104.14 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a11c1251-2ff9-4f8a-9fb1-7e26581a732f")
 		)
@@ -14291,6 +14786,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 67.31 0)
 			(effects
 				(font
@@ -14370,6 +14874,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3d7e747-3f17-4fab-880f-d2551fc2fbd6")
 		)
@@ -14433,6 +14946,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 217.17 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 217.17 102.87 0)
 			(effects
 				(font
@@ -14512,6 +15034,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 255.27 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8835b2e-8b85-4336-9d58-3e70ce0320d7")
 		)
@@ -14572,6 +15103,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 367.03 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE075K1L"
 			(at 367.03 109.22 0)
 			(effects
 				(font
@@ -14651,6 +15191,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 255.27 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "83c95fe5-14bf-4577-aa02-136af7cd26df")
 		)
@@ -14711,6 +15260,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 367.03 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE075K1L"
 			(at 367.03 143.51 0)
 			(effects
 				(font
@@ -14790,6 +15348,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 191.77 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef40de6e-a6c8-41b0-8225-204ddb3cc6d1")
 		)
@@ -14853,6 +15420,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 191.77 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 191.77 86.36 0)
 			(effects
 				(font
@@ -14998,6 +15574,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 179.07 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9f3793a2-c7c7-4289-bd7a-e17757b74b17")
 		)
@@ -15061,6 +15646,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 129.54 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 129.54 69.85 0)
 			(effects
 				(font
@@ -15140,6 +15734,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 191.77 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8be26220-1f3c-435a-9de4-92defd16b25c")
 		)
@@ -15203,6 +15806,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 78.74 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 78.74 86.36 0)
 			(effects
 				(font
@@ -15282,6 +15894,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 53.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "928ae51f-59fe-4b52-b414-4f528e4a6d98")
 		)
@@ -15345,6 +15966,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 242.57 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 242.57 119.38 0)
 			(effects
 				(font
@@ -15489,6 +16119,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 166.37 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59b44d5a-397d-4e28-917a-9ad4b54c5da4")
 		)
@@ -15552,6 +16191,15 @@
 			)
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
+			(at 347.98 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "DMP3125L-7"
 			(at 347.98 29.21 0)
 			(effects
 				(font
@@ -15700,6 +16348,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 116.84 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1866606b-7717-4392-a228-6da2dbc43b43")
 		)
@@ -15829,6 +16486,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 255.27 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 255.27 119.38 0)
 			(effects
 				(font
@@ -15973,6 +16639,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 104.14 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2f50bd6d-b949-490e-ac80-1ba081bd3b6a")
 		)
@@ -16044,6 +16719,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 53.34 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8637e869-c2c1-439d-920b-44ddc78048bf")
 		)
@@ -16103,6 +16787,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 116.84 0)
 			(effects
 				(font
@@ -16381,6 +17074,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 78.74 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2851069-83fc-4f99-8ef9-5e51a06f106c")
 		)
@@ -16444,6 +17146,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 91.44 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 91.44 53.34 0)
 			(effects
 				(font
@@ -16523,6 +17234,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 217.17 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c8dd5abc-eeda-43fd-b6a8-1c24255631e8")
 		)
@@ -16586,6 +17306,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 217.17 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 217.17 135.89 0)
 			(effects
 				(font
@@ -16661,6 +17390,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 274.32 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "109de2a4-51df-4074-95a9-3729f0180f44")
 		)
@@ -16721,6 +17459,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 179.07 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 179.07 135.89 0)
 			(effects
 				(font
@@ -16800,6 +17547,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 91.44 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7d7ca6fb-2af2-4984-905a-6d7a652d2982")
 		)
@@ -16871,6 +17627,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 191.77 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9fc61829-e4b1-46b6-90d1-ae2f539da991")
 		)
@@ -16931,6 +17696,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 367.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE075K1L"
 			(at 367.03 59.69 0)
 			(effects
 				(font
@@ -17141,6 +17915,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 166.37 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8b2cc1f6-e536-4eb4-b345-ff40a4c0e19c")
 		)
@@ -17200,6 +17983,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 50.8 0)
 			(effects
 				(font
@@ -17279,6 +18071,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 179.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2cfb1d94-67b1-4415-9c07-5c4d43e45b52")
 		)
@@ -17342,6 +18143,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 104.14 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 104.14 69.85 0)
 			(effects
 				(font
@@ -17487,6 +18297,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 242.57 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "031091c6-ea65-48a4-bb45-14904464e0ab")
 		)
@@ -17550,6 +18369,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 229.87 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 229.87 102.87 0)
 			(effects
 				(font
@@ -17629,6 +18457,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 204.47 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0429a15a-cef9-47ed-b7d8-3bec505b4301")
 		)
@@ -17700,6 +18537,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 91.44 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b7f98699-62c1-4144-a862-a9da4a239c65")
 		)
@@ -17761,6 +18607,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 142.24 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "C0603C104J3RACTU"
 			(at 142.24 213.36 0)
 			(effects
 				(font
@@ -17840,6 +18695,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 116.84 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ee1196eb-5a14-4408-a79a-3ff6a68488c4")
 		)
@@ -17903,6 +18767,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 104.14 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 104.14 119.38 0)
 			(effects
 				(font
@@ -17982,6 +18855,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 255.27 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2dab2971-74db-4f25-b079-3c6ff6ac73b6")
 		)
@@ -18045,6 +18927,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 40.64 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 40.64 69.85 0)
 			(effects
 				(font
@@ -18124,6 +19015,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "DMP3125L-7"
+			(at 347.98 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c8b50178-289f-4c94-8e0b-e1665ee53f54")
 		)
@@ -18190,6 +19090,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 66.04 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 66.04 135.89 0)
 			(effects
 				(font
@@ -18335,6 +19244,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 229.87 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "23482375-ba0f-44d7-a128-e9f529a0181d")
 		)
@@ -18398,6 +19316,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 129.54 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 129.54 152.4 0)
 			(effects
 				(font
@@ -18477,6 +19404,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 229.87 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0134d3d7-bc6b-49a8-9a40-ae2725b2f81e")
 		)
@@ -18548,6 +19484,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 116.84 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ffa56ba6-3c1f-42ab-b552-eab5a4efba43")
 		)
@@ -18611,6 +19556,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 204.47 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 204.47 135.89 0)
 			(effects
 				(font
@@ -18756,6 +19710,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 116.84 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eac193c6-8199-4764-bbfd-ceb5a0401f8f")
 		)
@@ -18819,6 +19782,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 40.64 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 40.64 102.87 0)
 			(effects
 				(font
@@ -18964,6 +19936,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 53.34 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f9021f75-d447-46fc-8f24-3a2dd7046daa")
 		)
@@ -19100,6 +20081,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 242.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6293e06b-6afc-439b-bf30-e9f845741497")
 		)
@@ -19163,6 +20153,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 229.87 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 229.87 53.34 0)
 			(effects
 				(font
@@ -19242,6 +20241,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 78.74 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f342894c-c790-4d18-988a-c701c456657c")
 		)
@@ -19313,6 +20321,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 166.37 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5b6b088c-0459-477c-8916-71edc740387c")
 		)
@@ -19376,6 +20393,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 242.57 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 242.57 53.34 0)
 			(effects
 				(font
@@ -19521,6 +20547,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 166.37 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "db8981d3-9908-43ba-9964-6adc0a5b6494")
 		)
@@ -19584,6 +20619,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 78.74 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 78.74 119.38 0)
 			(effects
 				(font
@@ -19663,6 +20707,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 91.44 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9bb69c4f-2990-458f-b497-12e98dd4c581")
 		)
@@ -19722,6 +20775,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 133.35 0)
 			(effects
 				(font
@@ -19797,6 +20859,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" ""
+			(at 274.32 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "109de2a4-51df-4074-95a9-3729f0180f45")
 		)
@@ -19853,6 +20924,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 274.32 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" ""
 			(at 274.32 165.1 0)
 			(effects
 				(font
@@ -19926,6 +21006,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603FRE075K1L"
+			(at 367.03 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0a4d2a89-15df-4d7b-b703-003f1229e934")
 		)
@@ -19989,6 +21078,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 255.27 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 255.27 86.36 0)
 			(effects
 				(font
@@ -20133,6 +21231,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 229.87 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c0bc2c29-e58c-4bbe-8dc6-b3b63b8dbf09")
 		)
@@ -20196,6 +21303,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 78.74 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 78.74 53.34 0)
 			(effects
 				(font
@@ -20275,6 +21391,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5616a4a9-6665-4a06-be52-18fd3fa0a9a4")
 		)
@@ -20338,6 +21463,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 204.47 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 204.47 152.4 0)
 			(effects
 				(font
@@ -20417,6 +21551,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 53.34 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b3d17b06-ebc9-4fe1-83a6-17e4dffb1555")
 		)
@@ -20480,6 +21623,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 179.07 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 179.07 102.87 0)
 			(effects
 				(font
@@ -20691,6 +21843,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 40.64 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a692f4c-6c2a-4ef3-8079-af8a53bf1406")
 		)
@@ -20758,6 +21919,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603FRE075K1L"
+			(at 367.03 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4bcc9e81-5ce9-44da-abb9-b2abfdc902f8")
 		)
@@ -20817,6 +21987,15 @@
 			)
 		)
 		(property "Description" "16-bit constant current LED sink driver, HTSSOP-24"
+			(at 217.17 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "STP16CP05XTTR "
 			(at 217.17 209.55 0)
 			(effects
 				(font
@@ -20965,6 +22144,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 91.44 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c9620c61-e3a9-479b-bf2b-8abb4e5b9838")
 		)
@@ -21028,6 +22216,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 242.57 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 242.57 135.89 0)
 			(effects
 				(font
@@ -21107,6 +22304,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2003745b-1465-4335-9db3-f290eed6cb2a")
 		)
@@ -21168,6 +22374,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
+			(at 317.5 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "AKSCT/G BLACK"
 			(at 317.5 236.22 0)
 			(effects
 				(font
@@ -21301,6 +22516,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 151.13 0)
 			(effects
 				(font
@@ -21446,6 +22670,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 191.77 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3615bc1b-edb1-4cee-acc1-fb64770a1d1c")
 		)
@@ -21509,6 +22742,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 179.07 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 179.07 86.36 0)
 			(effects
 				(font
@@ -21585,6 +22827,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603FRE075K1L"
+			(at 367.03 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8bc5db1-caad-4373-818f-9419ca2fe3dd")
 		)
@@ -21647,6 +22898,15 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 326.39 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "3386F-1-222LF"
 			(at 326.39 236.22 0)
 			(effects
 				(font
@@ -21729,6 +22989,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 104.14 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4c0a0190-0b1e-46c6-805b-04e539e316cb")
 		)
@@ -21791,6 +23060,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 336.55 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603DRE071KL"
 			(at 336.55 63.5 0)
 			(effects
 				(font
@@ -21870,6 +23148,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 191.77 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7b195ec9-07fc-47c5-a7dd-d6603cc8d54e")
 		)
@@ -21933,6 +23220,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 255.27 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 255.27 135.89 0)
 			(effects
 				(font
@@ -22012,6 +23308,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 217.17 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9148c9dc-c22b-4688-9fa9-45317a6ea39d")
 		)
@@ -22074,6 +23379,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 336.55 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603DRE071KL"
 			(at 336.55 129.54 0)
 			(effects
 				(font
@@ -22220,6 +23534,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 53.34 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6a21f583-a869-4144-83b0-b111d80822c8")
 		)
@@ -22283,6 +23606,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 255.27 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 255.27 102.87 0)
 			(effects
 				(font
@@ -22362,6 +23694,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 53.34 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ba67cff-a1ad-4797-8691-b03e66423ffe")
 		)
@@ -22425,6 +23766,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 78.74 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 78.74 69.85 0)
 			(effects
 				(font
@@ -22569,6 +23919,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 116.84 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a1e39a2-5687-4576-8e29-7b72acc6648f")
 		)
@@ -22640,6 +23999,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 166.37 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8e626cf5-05e6-4e27-a2e9-e194a1597a8f")
 		)
@@ -22699,6 +24067,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 34.29 0)
 			(effects
 				(font
@@ -22843,6 +24220,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 91.44 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "01305217-dd28-4ea2-8c78-ef464d1635af")
 		)
@@ -22906,6 +24292,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 204.47 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 204.47 36.83 0)
 			(effects
 				(font
@@ -22985,6 +24380,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1bef4775-c474-47cd-b7ac-94af8670b510")
 		)
@@ -23048,6 +24452,15 @@
 			)
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
+			(at 347.98 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "DMP3125L-7"
 			(at 347.98 62.23 0)
 			(effects
 				(font
@@ -23129,6 +24542,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603DRE071KL"
+			(at 336.55 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01db3cf2-bbde-43ea-bad6-717bbf4d9342")
 		)
@@ -23192,6 +24614,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 191.77 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 191.77 102.87 0)
 			(effects
 				(font
@@ -23270,6 +24701,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "RT0603DRE071KL"
+			(at 336.55 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7eca867-c803-42f7-9b86-361f4b7a6e91")
 		)
@@ -23332,6 +24772,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 336.55 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603DRE071KL"
 			(at 336.55 147.32 0)
 			(effects
 				(font
@@ -23476,6 +24925,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 66.04 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32651f6b-a4f4-4832-84d5-d08a15b9a798")
 		)
@@ -23539,6 +24997,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 129.54 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 129.54 86.36 0)
 			(effects
 				(font
@@ -23618,6 +25085,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 204.47 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d00bbc05-6bd9-4b20-8461-ff6876627b37")
 		)
@@ -23680,6 +25156,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 336.55 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603DRE071KL"
 			(at 336.55 113.03 0)
 			(effects
 				(font
@@ -23759,6 +25244,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 116.84 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "da328782-9132-4428-b785-69c96de974b7")
 		)
@@ -23822,6 +25316,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 166.37 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 166.37 135.89 0)
 			(effects
 				(font
@@ -23901,6 +25404,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 217.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2fcc8763-4fc2-4aec-b1a8-49d2f22a1967")
 		)
@@ -23972,6 +25484,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 217.17 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1109d7a7-c9f3-45c0-b3e9-69244e3bb659")
 		)
@@ -24035,6 +25556,15 @@
 			)
 		)
 		(property "Description" "-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"
+			(at 347.98 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "DMP3125L-7"
 			(at 347.98 146.05 0)
 			(effects
 				(font
@@ -24183,6 +25713,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "LTST-C171KRKT"
+			(at 40.64 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bef92ac0-1f9f-4a8a-ad3b-34950ff008b3")
 		)
@@ -24242,6 +25781,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 327.66 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "RT0603FRE0710RL"
 			(at 327.66 100.33 0)
 			(effects
 				(font
@@ -24321,6 +25869,15 @@
 				(hide yes)
 			)
 		)
+		(property "MFR" "DMP3125L-7"
+			(at 347.98 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "8af788d3-dec1-4e02-a557-83d25ded7196")
 		)
@@ -24387,6 +25944,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode, rotated by 45°"
+			(at 179.07 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFR" "LTST-C171KRKT"
 			(at 179.07 152.4 0)
 			(effects
 				(font
